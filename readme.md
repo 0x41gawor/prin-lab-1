@@ -1,3 +1,5 @@
+# PRIN LAB 2 - sprawozdanie
+Autor: Andrzej Gawor
 # Napotkane problemy
 
 Początkowo instalacja wykonywana była na Ubuntu 22.04, które domyślnie ma Python w wersji 3.10.
